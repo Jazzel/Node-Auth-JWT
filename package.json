@@ -5,5 +5,16 @@
   "main": "server.js",
   "repository": "https://github.com/Jazz-hash/Todo-NodeJS-API",
   "author": "Muhammad Jazzel Mehmood",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js",
+    "build": "yarn build"
+  }
 }
