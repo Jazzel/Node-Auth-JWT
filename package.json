@@ -1,0 +1,9 @@
+{
+  "name": "Todo",
+  "version": "1.0.0",
+  "description": "Todo API with User authentication",
+  "main": "server.js",
+  "repository": "https://github.com/Jazz-hash/Todo-NodeJS-API",
+  "author": "Muhammad Jazzel Mehmood",
+  "license": "MIT"
+}
